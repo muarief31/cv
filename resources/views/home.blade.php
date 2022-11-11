@@ -12,7 +12,7 @@
 <div class="resume">
    <div class="resume_left">
      <div class="resume_profile">
-       <img src="arif.JPG" alt="profile_pic">
+       <img src="arif.jpg" alt="profile_pic">
      </div>
      <div class="resume_content">
        <div class="resume_item resume_info">
